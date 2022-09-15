@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DipuTony
-- 👀 I’m interested in Website and Android Ddvelopment.
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Website and Android Development.
 - 💞️ I’m looking to collaborate on React.
 - 📫 How to reach me WhatsMe - +91 840-480-1234
 -  Website - http://quantainfotech.com/
