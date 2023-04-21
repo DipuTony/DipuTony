@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Android Development.
 - 💞️ I’m looking to collaborate on AI, IoT and ML.
 - 📫 How to reach me WhatsMe - +91 840-480-1234
--  Website - https://dipusingh.in/
+-  Portfolio - https://dipusingh.in/
 
 <!---
 DipuTony/DipuTony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 Hi, i'm [Dipu Singh](https://dipusingh.in), Software Developer.
 
-
-  <img align="center" alt="Coding Dipu" src="[https://github.com/DipuTony/DipuTony/blob/main/code.gif]?raw=true" width="500" height="320" />
-  
 - 💼 any freelance work? do reach, [email](mailto:dsingh197@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
@@ -48,7 +45,5 @@ Hi, i'm [Dipu Singh](https://dipusingh.in), Software Developer.
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=diputony&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Dipu Singh" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diputony&show_icons=true&theme=gotham" alt="Dipu Singh" /></p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=diputony&show_icons=true&theme=gotham" alt="Dipu Singh" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DipuTony&theme=dark&date_format=M%20j%5B%2C%20Y%5D&type=png)](https://git.io/streak-stats)
 
 
