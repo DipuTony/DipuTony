@@ -11,11 +11,6 @@ DipuTony/DipuTony is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<a href="https://www.linkedin.com/in/diputony" target="_blank">
-  <img align="left" alt="Dipu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/DipuTony/DipuTony/3584bf52c0dc36949226e107835724f436e0a769/linkedin.svg" /></a>
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=diputony)
 
 <a href="mailto:dsingh197@gmail.com"><img alt="G-Mail" src="https://img.shields.io/badge/Gmail-Mail%20To%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
