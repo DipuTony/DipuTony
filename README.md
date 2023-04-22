@@ -16,6 +16,16 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=diputony)
 
+<a href="mailto:dsingh197@gmail.com"><img alt="G-Mail" src="https://img.shields.io/badge/Gmail-Mail%20To%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/diputony"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="https://www.facebook.com/diputony1/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Follow%20Me-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+
+<a href="https://www.instagram.com/diputony/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+<a href="https://twitter.com/diputony"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+
 <br />
 
 Hi, i'm [Dipu Singh](https://dipusingh.in), Software Developer.
